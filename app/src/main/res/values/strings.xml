@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DogApi</string>
+    <string name="sub_breeds">Sub Breeds</string>
+</resources>
